@@ -1,9 +1,9 @@
 - :us: :woman_astronaut: <br>
-Hi, I’m Diella, I'm from Taiwan.<br>
+Hi, I’m Ching-Yao, I'm from Taiwan.<br>
 I’m currently learning Front-End languages.
 
 - :fr: :chicken: <br>
-Bonjour, je m'appelle Diella, je viens de Taïwan. <br>
+Bonjour, je m'appelle Ching-Yao, je viens de Taïwan. <br>
 Je suis en train d'apprendre les langages front-end.
 
 - :taiwan: :sauropod:<br>
